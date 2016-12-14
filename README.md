@@ -1,3 +1,5 @@
+Original code is based on Packer < v0.8 because it uses vmware-windows-iso builder. WIP updating to Packer >= v0.12.
+
 These instructions are specific to OS X, because that is the only platform that allows you to run OS X *within*
 VMWare. The bash shell is required, as is git and sed. I strongly suggest you install homebrew (<http://brew.sh>) which
 gives access to an enormous number of tools.
