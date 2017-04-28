@@ -1,0 +1,11 @@
+{
+    "headless": "false",
+    "os_name": "win10",
+    "version_name": "home",
+    "width_name": "x64",
+    "guest_os_type": "Windows10_64",
+    "iso": "en_windows_10_multiple_editions_version_1703_updated_march_2017_x64_dvd_10189288.iso",
+    "iso_url": "https://msdn.microsoft.com/subscriptions/json/GetDownloadRequest?brand=MSDN&locale=en-us&fileId=71645&activexDisabled=false&akamaiDL=false",
+    "iso_checksum": "CE8005A659E8DF7FE9B080352CB1C313C3E9ADCE",
+    "iso_checksum_type": "sha1"
+}

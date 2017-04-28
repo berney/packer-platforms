@@ -1,0 +1,10 @@
+{
+    "os_name": "win10",
+    "version_name": "home",
+    "width_name": "x86",
+    "guest_os_type": "Windows10_32",
+    "iso": "en_windows_10_education_version_1703_updated_march_2017_x86_dvd_10188968.iso",
+    "iso_url": "https://msdn.microsoft.com/subscriptions/json/GetDownloadRequest?brand=MSDN&locale=en-us&fileId=71731&activexDisabled=true&akamaiDL=false",
+    "iso_checksum": "0DEC4D66434C7A2BC7BC7DFAEB3E8000FA8AE334",
+    "iso_checksum_type": "sha1"
+}
