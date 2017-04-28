@@ -39,7 +39,8 @@
             "disk_size": 40960,
             "vboxmanage": [
               ["modifyvm", "{{.Name}}", "--memory", "2048"],
-              ["modifyvm", "{{.Name}}", "--cpus", "4"]
+              ["modifyvm", "{{.Name}}", "--cpus", "2"],
+              ["modifyvm", "{{.Name}}", "--vram", "36"]
             ]
         },
         {
@@ -70,7 +71,7 @@
             "disk_size": 40960,
             "vmx_data": {
                 "memsize": "2048",
-                "numvcpus": "4",
+                "numvcpus": "2",
                 "cpuid.coresPerSocket": "1",
                 "ethernet0.virtualDev": "e1000",
                 "scsi0.virtualDev": "lsisas1068",
